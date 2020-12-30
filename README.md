@@ -6,4 +6,6 @@ ORDER,
 ITEM,
 ORDER-ITEM,
 WAREHOUSE,
-SHIPMENT,
+SHIPMENT.
+
+DDL and DML statements given in commands.txt
